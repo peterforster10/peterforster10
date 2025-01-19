@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peterforster10
-- 👀 I’m interested in Software Development Computer Science
+- 👀 I’m interested in Software Development, Web Development and Computer Science
 - 🌱 I’m currently refreshing my Web Development knowledge (HTML, CSS & SASS, JavaScript & TypeScript, React, Git)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
